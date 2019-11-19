@@ -1,5 +1,7 @@
 # Documentation
 
+(information at the bottom)
+
 **void setreadonly**
 
 Set a table's readonly property
@@ -179,3 +181,6 @@ Simulates a key tap
 
 
 
+#### Information
+
+ye boy!
