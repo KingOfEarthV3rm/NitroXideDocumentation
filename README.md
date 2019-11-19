@@ -27,8 +27,11 @@ Allows you to change a metatable
 **string Httpget**
 
 HTTP contents
- *Getobjects
- *Loadstring
+
+ **Getobjects**
+ 
+ 
+ **Loadstring**
 
 -------------------------------
 
