@@ -177,6 +177,5 @@ Simulates a key tap
 
 **Tainted bypass**
 
-**op anti virus anti no open**
 
 
