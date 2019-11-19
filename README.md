@@ -157,7 +157,7 @@ Simulates a key tap
 
 **string chat**
 
-**string Exit**
+**void Exit**
 
 **string rconsoleprint**
 
