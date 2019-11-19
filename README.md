@@ -1,4 +1,5 @@
 # Documentation
 
-**setreadonly**
+**void setreadonly**
+Set a table's readonly property
 
