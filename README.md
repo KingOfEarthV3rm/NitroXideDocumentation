@@ -14,11 +14,6 @@ Returns the metatable of an object
 
 -------------------------------
 
-**table setrawmetatable**
-
-Returns the metatable of an object
-
--------------------------------
 
 **table setrawmetatable**
 
